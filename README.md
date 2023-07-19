@@ -2,7 +2,7 @@
 - 👀 I’m interested in sports stuff & Ai
 
 -
-- 📫 How to reach me @hollandstar
+- 📫 How to reach me github@hollandstar
 
 <!---
 hollandstar/hollandstar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
