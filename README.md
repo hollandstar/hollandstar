@@ -1,50 +1,63 @@
 # 🌟 Welcome to Hollandstar 🚀
 
-[NL] Welkom bij Hollandstar – Waar Sport, Innovatie en Technologie samenkomen.
-[ENG] Welcome to Hollandstar – Where Sports, Innovation, and Technology converge.
+[NL] Welkom bij Hollandstar – Waar Strategie, Performance en Digitale Innovatie samenkomen.
+[ENG] Welcome to Hollandstar – Where Strategy, Performance, and Digital Innovation converge.
 
 ---
 
 # 🇳🇱 NEDERLANDS
 
 ## Over Hollandstar
-Hollandstar is een innovatief tech-initiatief dat zich richt op het snijvlak van sport, data en AI. Onze missie is om sportorganisaties, trainers en reddingsbrigades te transformeren door middel van schaalbare, intelligente en gebruiksvriendelijke digitale ecosystemen. 
+Hollandstar is een strategisch adviesbureau dat organisaties helpt bij merkpositionering, business development en groeistrategieën. Vanuit ons "Hollandstars Lab" vertalen we strategische ambities naar concrete digitale experimenten, concepten en schaalbare producten. 
 
-Met een sterke focus op zowel maatschappelijke impact als commerciële waarde, bouwen we aan de toekomst van sport- en veiligheidsmanagement.
+In deze repository vind je onze tech-initiatieven op het snijvlak van sport, veiligheid en operationele software — gebouwd om ideeën om te zetten in meetbare impact.
 
 ---
 
 ## 🛠 Onze Projecten & Initiatieven
 
 ### 1. Sportteams Dashboard
-Een gecentraliseerd platform voor het beheren, analyseren en optimaliseren van sportteams. Dit dashboard helpt verenigingen en organisaties om prestaties te tracken en administratieve processen te minimaliseren.
+Een gecentraliseerd platform voor het beheren, analyseren en optimaliseren van sportteams. Dit dashboard helpt verenigingen om prestaties te tracken en administratieve processen te minimaliseren.
 * **URL:** [https://sportteams.hollandstars.com/](https://sportteams.hollandstars.com/)
 * **Techniek:** React / Next.js Framework, TailwindCSS, RESTful API's, Cloud Data Storage.
 * **Status:** 🟢 **Beschikbaar** (Live & Operationeel)
-* **Thumbnail:** 
+
+[![Sportteams Dashboard Thumbnail](https://images.placeholders.dev/?width=600&height=300&text=Sportteams+Dashboard&bgColor=%230052cc&textColor=%23ffffff)](https://sportteams.hollandstars.com/)
+*(Klik op de afbeelding om naar de site te gaan)*
+
+---
+
 ### 2. Hockey Trainer Coach
 De ultieme digitale assistent voor hockeycoaches en trainers. Dit platform maakt gebruik van geavanceerde logica om trainingen voor te bereiden, tactieken uit te zetten en spelersprogressie nauwkeurig te monitoren.
 * **URL:** [https://hockeytrainercoach.hollandstars.com/login](https://hockeytrainercoach.hollandstars.com/login)
 * **Techniek:** Full-stack JavaScript (Node.js/Express), Secure Auth0/JWT Authenticatie, PostgreSQL.
 * **Status:** 🟢 **Beschikbaar** (Live - Login Vereist)
-* **Thumbnail:** 
+
+[![Hockey Trainer Coach Thumbnail](https://images.placeholders.dev/?width=600&height=300&text=Hockey+Trainer+Coach&bgColor=%23ff9900&textColor=%23ffffff)](https://hockeytrainercoach.hollandstars.com/login)
+*(Klik op de afbeelding om naar de site te gaan)*
+
+---
+
 ### 3. RescueBadge
 Een innovatief platform ontworpen voor reddingsbrigades en veiligheidsinstanties. RescueBadge digitaliseert het proces van certificering, vaardigheidstracking en operationele paraatheid om levensreddend werk efficiënter te maken.
 * **URL:** [https://rescuebadge.com/](https://rescuebadge.com/)
 * **Techniek:** Vue.js / Nuxt, Cloud Native Architectuur, Real-time Database Synchronisatie.
 * **Status:** 🟢 **Beschikbaar** (Live & Klaar voor opschaling)
-* **Thumbnail:** 
+
+[![RescueBadge Thumbnail](https://images.placeholders.dev/?width=600&height=300&text=RescueBadge+Platform&bgColor=%23cc0000&textColor=%23ffffff)](https://rescuebadge.com/)
+*(Klik op de afbeelding om naar de site te gaan)*
+
 ---
 
 ## 💼 Commerciële Kans & Samenwerking
-Hollandstar bouwt niet zomaar software; wij ontwikkelen schaalbare oplossingen voor reële uitdagingen in de sport- en veiligheidssector. 
+Bij Hollandstar ontwerpen we de strategie en begeleiden we de uitvoering van idee tot impact. Onze applicaties in deze repository tonen hoe we complexe sectoruitdagingen transformeren in schaalbare, commercieel valide software.
 
 **Waarom partner worden met Hollandstar?**
-* **Data-Driven Decisions:** Wij integreren AI en geavanceerde analytics om prestaties inzichtelijk te maken.
-* **Schaalbare Architectuur:** Al onze platformen zijn modulair gebouwd en klaar voor enterprise-opschaling.
-* **Commercieel Validatie:** Onze applicaties sluiten direct aan op een groeiende markt van digitalisering in de sport.
+* **Van Concept tot Schaalbare Uitvoering:** Wij combineren business intelligence met agile software-engineering.
+* **Maatwerk Oplossingen:** Geen standaard formats, maar software die aansluit op unieke groeikansen.
+* **Commercieel Validatie:** Direct inzetbaar voor white-label trajecten, joint ventures of licenties.
 
-Geïnteresseerd in een commerciële samenwerking, licenties of white-label mogelijkheden? Neem contact met ons op!
+Geïnteresseerd in een strategische of commerciële samenwerking? Neem contact op via [Hollandstar.com](https://www.hollandstar.com/).
 
 ---
 ---
@@ -52,9 +65,9 @@ Geïnteresseerd in een commerciële samenwerking, licenties of white-label mogel
 # 🇬🇧 ENGLISH
 
 ## About Hollandstar
-Hollandstar is a cutting-edge tech initiative operating at the intersection of sports, data, and AI. Our mission is to transform sports organizations, trainers, and rescue operations through scalable, intelligent, and user-friendly digital ecosystems.
+Hollandstar is a strategic consultancy firm dedicated to helping organizations master brand positioning, business development, and growth strategies. Through our "Hollandstars Lab", we turn corporate ambition into tangible digital experiments, innovative concepts, and scalable tech products.
 
-With a strong emphasis on both social impact and commercial value, we are architecting the future of sports and safety management.
+This repository showcases our active tech initiatives bridging sports, public safety, and operational workflow software — built to transition brilliant ideas into high-performance impact.
 
 ---
 
@@ -65,33 +78,43 @@ A centralized platform for managing, analyzing, and optimizing sports teams. Thi
 * **URL:** [https://sportteams.hollandstars.com/](https://sportteams.hollandstars.com/)
 * **Tech Stack:** React / Next.js Framework, TailwindCSS, RESTful APIs, Cloud Data Storage.
 * **Status:** 🟢 **Available** (Live & Operational)
-* **Thumbnail:** 
+
+[![Sportteams Dashboard Thumbnail](https://images.placeholders.dev/?width=600&height=300&text=Sportteams+Dashboard&bgColor=%230052cc&textColor=%23ffffff)](https://sportteams.hollandstars.com/)
+
+---
+
 ### 2. Hockey Trainer Coach
 The ultimate digital assistant for hockey coaches and trainers. This platform leverages advanced logic to streamline session planning, tactical deployment, and player progression tracking.
 * **URL:** [https://hockeytrainercoach.hollandstars.com/login](https://hockeytrainercoach.hollandstars.com/login)
 * **Tech Stack:** Full-stack JavaScript (Node.js/Express), Secure Auth0/JWT Authentication, PostgreSQL.
 * **Status:** 🟢 **Available** (Live - Login Required)
-* **Thumbnail:** 
+
+[![Hockey Trainer Coach Thumbnail](https://images.placeholders.dev/?width=600&height=300&text=Hockey+Trainer+Coach&bgColor=%23ff9900&textColor=%23ffffff)](https://hockeytrainercoach.hollandstars.com/login)
+
+---
+
 ### 3. RescueBadge
 An innovative platform engineered for water rescue organizations and safety agencies. RescueBadge digitalizes certification workflows, skill tracking, and operational readiness to optimize life-saving efforts.
 * **URL:** [https://rescuebadge.com/](https://rescuebadge.com/)
 * **Tech Stack:** Vue.js / Nuxt, Cloud Native Architecture, Real-time Database Synchronization.
 * **Status:** 🟢 **Available** (Live & Ready for scaling)
-* **Thumbnail:** 
+
+[![RescueBadge Thumbnail](https://images.placeholders.dev/?width=600&height=300&text=RescueBadge+Platform&bgColor=%23cc0000&textColor=%23ffffff)](https://rescuebadge.com/)
+
 ---
 
 ## 💼 Commercial Opportunity & Collaboration
-Hollandstar doesn't just build software; we engineer high-impact solutions for real-world challenges within the sports and safety verticals.
+At Hollandstar, we define the strategy and accelerate execution — from initial spark to real-world impact. The applications within this repository serve as prime examples of how we transform market opportunities into highly scalable, enterprise-ready software.
 
 **Why partner with Hollandstar?**
-* **Data-Driven Decisions:** We embed AI and advanced analytics to unlock deep performance insights.
-* **Scalable Architecture:** All platforms are modularly designed and enterprise-ready.
-* **Commercial Validation:** Our applications address a rapidly expanding global market for sports tech digitalization.
+* **From Concept to Scalable Execution:** We blend deep strategic market insights with modern software engineering.
+* **Tailored Engineering:** No generic templates; we build software aligned precisely with market growth areas.
+* **Commercial Validation:** Ready for commercial licensing, strategic partnerships, or white-label implementation.
 
-Interested in commercial partnerships, software licensing, or white-label opportunities? Let's connect!
+Interested in strategic partnerships or commercial licensing opportunities? Let's talk via [Hollandstar.com](https://www.hollandstar.com/).
 
 ---
 
 ## 📬 Contact / Get in Touch
+* **Website:** [Hollandstar.com](https://www.hollandstar.com/)
 * **GitHub:** [@hollandstar](https://github.com/hollandstar)
-* **Email:** github@hollandstar
