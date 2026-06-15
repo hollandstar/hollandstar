@@ -22,8 +22,9 @@ Een gecentraliseerd platform voor het beheren, analyseren en optimaliseren van s
 * **Techniek:** React / Next.js Framework, TailwindCSS, RESTful API's, Cloud Data Storage.
 * **Status:** 🟢 **Beschikbaar** (Live & Operationeel)
 
-[![Sportteams Dashboard Thumbnail](https://images.placeholders.dev/?width=600&height=300&text=Sportteams+Dashboard&bgColor=%230052cc&textColor=%23ffffff)](https://sportteams.hollandstars.com/)
-*(Klik op de afbeelding om naar de site te gaan)*
+<a href="https://sportteams.hollandstars.com/">
+  <img src="https://hollandstars.com/images/projects/sportteams.jpg" alt="Sportteams Manager" width="350" />
+</a>
 
 ---
 
@@ -33,8 +34,9 @@ De ultieme digitale assistent voor hockeycoaches en trainers. Dit platform maakt
 * **Techniek:** Full-stack JavaScript (Node.js/Express), Secure Auth0/JWT Authenticatie, PostgreSQL.
 * **Status:** 🟢 **Beschikbaar** (Live - Login Vereist)
 
-[![Hockey Trainer Coach Thumbnail](https://images.placeholders.dev/?width=600&height=300&text=Hockey+Trainer+Coach&bgColor=%23ff9900&textColor=%23ffffff)](https://hockeytrainercoach.hollandstars.com/login)
-*(Klik op de afbeelding om naar de site te gaan)*
+<a href="https://hockeytrainercoach.hollandstars.com/login">
+  <img src="https://hollandstars.com/images/projects/hockeytrainercoach.jpg" alt="Hockey Trainer Coach" width="350" />
+</a>
 
 ---
 
@@ -44,8 +46,9 @@ Een innovatief platform ontworpen voor reddingsbrigades en veiligheidsinstanties
 * **Techniek:** Vue.js / Nuxt, Cloud Native Architectuur, Real-time Database Synchronisatie.
 * **Status:** 🟢 **Beschikbaar** (Live & Klaar voor opschaling)
 
-[![RescueBadge Thumbnail](https://images.placeholders.dev/?width=600&height=300&text=RescueBadge+Platform&bgColor=%23cc0000&textColor=%23ffffff)](https://rescuebadge.com/)
-*(Klik op de afbeelding om naar de site te gaan)*
+<a href="https://rescuebadge.com/">
+  <img src="https://hollandstars.com/images/projects/rescuebadge.jpg" alt="RescueBadge" width="350" />
+</a>
 
 ---
 
@@ -79,7 +82,9 @@ A centralized platform for managing, analyzing, and optimizing sports teams. Thi
 * **Tech Stack:** React / Next.js Framework, TailwindCSS, RESTful APIs, Cloud Data Storage.
 * **Status:** 🟢 **Available** (Live & Operational)
 
-[![Sportteams Dashboard Thumbnail](https://images.placeholders.dev/?width=600&height=300&text=Sportteams+Dashboard&bgColor=%230052cc&textColor=%23ffffff)](https://sportteams.hollandstars.com/)
+<a href="https://sportteams.hollandstars.com/">
+  <img src="https://hollandstars.com/images/projects/sportteams.jpg" alt="Sportteams Manager" width="350" />
+</a>
 
 ---
 
@@ -89,7 +94,9 @@ The ultimate digital assistant for hockey coaches and trainers. This platform le
 * **Tech Stack:** Full-stack JavaScript (Node.js/Express), Secure Auth0/JWT Authentication, PostgreSQL.
 * **Status:** 🟢 **Available** (Live - Login Required)
 
-[![Hockey Trainer Coach Thumbnail](https://images.placeholders.dev/?width=600&height=300&text=Hockey+Trainer+Coach&bgColor=%23ff9900&textColor=%23ffffff)](https://hockeytrainercoach.hollandstars.com/login)
+<a href="https://hockeytrainercoach.hollandstars.com/login">
+  <img src="https://hollandstars.com/images/projects/hockeytrainercoach.jpg" alt="Hockey Trainer Coach" width="350" />
+</a>
 
 ---
 
@@ -99,7 +106,9 @@ An innovative platform engineered for water rescue organizations and safety agen
 * **Tech Stack:** Vue.js / Nuxt, Cloud Native Architecture, Real-time Database Synchronization.
 * **Status:** 🟢 **Available** (Live & Ready for scaling)
 
-[![RescueBadge Thumbnail](https://images.placeholders.dev/?width=600&height=300&text=RescueBadge+Platform&bgColor=%23cc0000&textColor=%23ffffff)](https://rescuebadge.com/)
+<a href="https://rescuebadge.com/">
+  <img src="https://hollandstars.com/images/projects/rescuebadge.jpg" alt="RescueBadge" width="350" />
+</a>
 
 ---
 
